@@ -11,15 +11,22 @@
     ],
     "index": [
         {
+            "problem-id":"",
             "problem-name":"",
-            "problem-origin":"",
+            "problem-author":"",
+            "problem-org":"",
             "problem-code":"",
-            "solution-link":"",
-            "solution-date":"",
-            "language":"",
-            "time-complexity":"",
-            "space-complexity":"",
-            "difficulty-level":""
+            "difficulty-level":"",
+            "problem-solutions": [
+                {
+                    "solution-version":"",
+                    "solution-link":"",
+                    "solution-date":"",
+                    "language":"",
+                    "time-complexity":"",
+                    "space-complexity":""
+                }
+            ]
         }
     ]
 }
