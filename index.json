@@ -27,6 +27,24 @@
                     "space-complexity":""
                 }
             ]
+        },
+        {
+            "problem-id":"000001",
+            "problem-name":"7. Reverse Integer",
+            "problem-author":"Leetcode",
+            "problem-org":"Leetcode",
+            "problem-code":"7",
+            "difficulty-level":"medium",
+            "problem-solutions": [
+                {
+                    "solution-version":"1.0",
+                    "solution-link":"https://github.com/siddhesh1770/CompetitiveProblemSolutions/blob/main/LeetCode/7-reverse-integer.cpp",
+                    "solution-date":"24/11/2021",
+                    "language":"cpp",
+                    "time-complexity":"O(n)",
+                    "space-complexity":""
+                }
+            ]
         }
     ]
 }
