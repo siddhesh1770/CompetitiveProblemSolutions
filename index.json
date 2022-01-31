@@ -63,6 +63,24 @@
                     "space-complexity":"O(1)"
                 }
             ]
+        },
+        {
+            "problem-id":"000003",
+            "problem-name":"28. Implement strStr()",
+            "problem-author":"Leetcode",
+            "problem-org":"Leetcode",
+            "problem-code":"28",
+            "difficulty-level":"easy",
+            "problem-solutions": [
+                {
+                    "solution-version":"1.0",
+                    "solution-link":"https://github.com/siddhesh1770/CompetitiveProblemSolutions/blob/main/LeetCode/28. Implement strStr/28-implement-strStr.java",
+                    "solution-date":"31/01/2022",
+                    "language":"java",
+                    "time-complexity":"O(n)",
+                    "space-complexity":"O(1)"
+                }
+            ]
         }
     ]
 }
