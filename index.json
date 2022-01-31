@@ -38,11 +38,29 @@
             "problem-solutions": [
                 {
                     "solution-version":"1.0",
-                    "solution-link":"https://github.com/siddhesh1770/CompetitiveProblemSolutions/blob/main/LeetCode/7-reverse-integer.cpp",
+                    "solution-link":"https://github.com/siddhesh1770/CompetitiveProblemSolutions/blob/main/LeetCode/7. Reverse Integer/7-reverse-integer.cpp",
                     "solution-date":"24/11/2021",
                     "language":"cpp",
                     "time-complexity":"O(n)",
                     "space-complexity":""
+                }
+            ]
+        },
+        {
+            "problem-id":"000002",
+            "problem-name":"26. Remove Duplicates from Sorted Array",
+            "problem-author":"Leetcode",
+            "problem-org":"Leetcode",
+            "problem-code":"26",
+            "difficulty-level":"easy",
+            "problem-solutions": [
+                {
+                    "solution-version":"1.0",
+                    "solution-link":"https://github.com/siddhesh1770/CompetitiveProblemSolutions/blob/main/LeetCode/26. Remove Duplicates from Sorted Array/RemoveDuplicatesFromSortedArray.java",
+                    "solution-date":"31/01/2022",
+                    "language":"java",
+                    "time-complexity":"O(n)",
+                    "space-complexity":"O(1)"
                 }
             ]
         }
