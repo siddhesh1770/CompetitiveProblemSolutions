@@ -81,6 +81,24 @@
                     "space-complexity":"O(1)"
                 }
             ]
-        }
+        },
+        {
+            "problem-id":"000004",
+            "problem-name":"Recursive Digit Sum",
+            "problem-author":"HackerRank",
+            "problem-org":"HackerRank",
+            "problem-code":"recursive-digit-sum",
+            "difficulty-level":"medium",
+            "problem-solutions": [
+                {
+                    "solution-version":"1.0",
+                    "solution-link":"https://raw.githubusercontent.com/siddhesh1770/CompetitiveProblemSolutions/main/HackerRank/Recursive%20Digit%20Sum/RecursiveDigitSum.java",
+                    "solution-date":"07/02/2022",
+                    "language":"java",
+                    "time-complexity":"",
+                    "space-complexity":""
+                }
+            ]
+        },
     ]
 }
